@@ -1,0 +1,4 @@
+word1 - synonym11; synonym12; synonym13; synonym14; synonym15; novoe slovo
+word2 - synonym2
+word3 - synonym3
+word4 - synonym4
